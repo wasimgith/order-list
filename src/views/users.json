@@ -1,0 +1,1178 @@
+[
+    {
+      "id": "2f991eb0-47e9-45a0-884b-482c6aeba3bb",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "d7649d82-0ffb-4b28-b5a3-72af8977f577",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1615380871000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1615380871000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Active",
+      "created-on": 1615380871000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1615380871000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "a8b81321-9b80-4d4d-8385-6d308d0fc856",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "0e757e78-20f3-460a-a1c4-1dc9b060386d",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1615191146000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1615191146000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1615191146000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1615191146000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "d8e00604-1f68-47bd-b717-d0d85b9864df",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "6eac7b42-aa72-4766-802a-4c2523a069c7",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614766758000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614766758000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614766758000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614766758000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "71ed1ca7-dfe8-4fa7-a189-623b353624f4",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "3e1867af-5a09-4417-ad9f-45c45842a127",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614763733000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614763733000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614763733000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614763733000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "aea04742-11db-4790-833e-5a7d83b62558",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "9b8b22b0-5a78-4dc1-862b-cb9b3acab5d1",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614762895000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614762895000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614762895000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614762895000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "e8d55997-5257-4439-9801-d871f5838db4",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "f5401e82-43a4-46c6-964e-2d06ceaf0d95",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614760828000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614760828000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614760828000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614760828000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "504d8e82-844d-4084-8a58-9c62d821a23d",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "9138b447-0266-4825-85eb-95ee9b8b1feb",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614760227000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614760227000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614760227000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614760227000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "f4edcfe1-c1b3-4c19-8f2d-b472618b8ef3",
+      "quote-id": "799be32d-6e53-46c5-ab81-e8db06bd7582",
+      "customer-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9133",
+      "items": [
+        {
+          "item-id": "ca3cb6b2-2534-45e4-a708-7f7ed572cdcd",
+          "quote-item-id": "7ed3d1fd-7b83-4a3a-9380-5bf4e7e3ed55",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "90f19ead-a783-4dd6-aa43-fa76890f32d0",
+          "port-type-id": "9fa7eb66-529d-4d21-b0e7-a4dead9a9102",
+          "a-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130003",
+            "port-id": "a270aa49-f6c5-42de-9ff7-8696881cc0a4"
+          },
+          "z-end-location": {
+            "location-id": "4f9f94fa-6d4f-11eb-9439-0242ac130004",
+            "port-id": "a390aa49-f6c5-42de-9ff7-8696881cc0a6"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614755710000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614755710000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614755710000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614755710000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "2fc0b00f-7c9b-46af-a482-72098c771bff",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "8bec74ba-ffe5-41bc-b360-019a43c28d16",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614752996000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614752996000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614752996000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614752996000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "d4cf50fa-b150-43b3-a87d-f277ec2dfa11",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "2526a326-f970-4d7e-9472-1e923c8d945d",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 12,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 10,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 10,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614752023000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614752023000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614752023000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614752023000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "ab6eb866-67a3-433e-9638-f68d3fa8d804",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "55ae540c-20b1-4b73-8beb-ea7e242a2f76",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614750966000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614750966000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614750966000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614750966000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "9d3eed97-af99-4021-9032-f7ed611f2a20",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "d3ccfca9-2389-4a10-9303-9e79ec1ca110",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614750215000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614750215000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614750215000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614750215000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "cb0982e8-e051-4be0-9cd9-41c05c05c21f",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "77a80ae9-41e7-4bc4-b6e1-3cc32d53d08e",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614750148000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614750148000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614750148000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614750148000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "d3172445-ece7-4825-b7c9-9cdb8f35109d",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "5d356e7f-9a2f-461d-b664-51c28e9c18bc",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 10,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 3,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 1,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614748742000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614748742000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614748742000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614748742000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "d9d04f71-8353-4f63-9791-461414650ec0",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "d49e5824-843c-4b2e-82a3-6a804d6345af",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 10,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 3,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 1,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614745510000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614745510000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614745510000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614745510000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "6516905d-455c-4e90-b91b-6719dfe32dbd",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "4ba214ed-475e-4b41-a13f-9393e5558c17",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 10,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 3,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 1,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614745382000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614745382000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614745382000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614745382000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "4f0064a6-131f-47b5-99d4-9aebffd51432",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "7dae7cae-c7e5-4cdb-a5e6-c6eb4b178a8b",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 10,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 3,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 1,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614693621000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614693621000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614693621000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614693621000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "571f2a6a-9af1-40f0-aa98-093102e641d9",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "3ec413b6-5ab3-4f8f-9933-38d2058a396e",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614690608000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614690608000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614690608000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614690608000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "a6733f25-1d59-4030-9f65-2f1cd7b0c9d6",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "ab872a34-75fd-4367-9d5b-12607f8ac1cc",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614689584000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614689584000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614689584000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614689584000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "1ae0178b-9e3c-44fe-85b6-41e1ba941661",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "2a94566c-f32a-4ac8-a4e0-e10cc1947046",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614689404000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614689404000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614689404000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614689404000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "a8e00db3-2907-4bf0-a65c-d94a9637c26a",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "4a3ce3af-37b8-4c04-86fe-505b7d989fd2",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 11,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 101,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 1,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614664712000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614664712000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614664712000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614664712000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "808dc449-97f0-4ea1-a97f-8ed439815c94",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac120000",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "e9f6eb9b-f106-4056-b761-376c1b3764a8",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 1,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 1,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 250,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614663350000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614663350000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614663350000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614663350000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "094eaf27-996f-485a-a33a-65feebb56ed3",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "97aa7139-d6bd-42fe-9dc2-42351af6e444",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 11,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 101,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 1,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614607267000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614607267000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614607267000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614607267000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    },
+    {
+      "id": "8713b871-a576-461e-8d81-bc90ddc1a387",
+      "quote-id": "db44cba6-6d40-11eb-9439-0242ac130254",
+      "customer-id": "db44cba6-6d40-11eb-9439-0242ac130011",
+      "items": [
+        {
+          "item-id": "fa613b6b-dd8f-486a-b687-cf9400f60735",
+          "quote-item-id": "db44cba6-6d40-11eb-9439-0242ac120001",
+          "service-id": "db44cba6-6d40-11eb-9439-0242ac130001",
+          "product-id": "db44cba6-6d40-11eb-9439-0242ac130002",
+          "port-type-id": "db44cba6-6d40-11eb-9439-0242ac130003",
+          "a-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130004",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190001"
+          },
+          "z-end-location": {
+            "location-id": "db44cba6-6d40-11eb-9439-0242ac130005",
+            "port-id": "db44cba6-6d40-11eb-9439-0242ac190002"
+          },
+          "contract-type-id": "ea1585e4-6987-48a0-83da-31a5ec61d1a3",
+          "contract-term": {
+            "value": 11,
+            "unit": "M"
+          },
+          "bandwidth": {
+            "value": 101,
+            "unit": "G"
+          },
+          "protection": true,
+          "path-id": "db44cba6-6d40-11eb-9439-0242ac130007",
+          "otc": 100.89,
+          "mrc": 1,
+          "currency": "USD",
+          "status": "Pending",
+          "created-on": 1614593289000,
+          "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+          "modified-on": 1614593289000,
+          "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+        }
+      ],
+      "otc": 45,
+      "mrc": 16,
+      "currency": "USD",
+      "status": "Pending",
+      "created-on": 1614593289000,
+      "created-by": "5e659757-ddd9-423d-a9b4-a73c12444bec",
+      "modified-on": 1614593289000,
+      "modified-by": "5e659757-ddd9-423d-a9b4-a73c12444bec"
+    }
+  ]
